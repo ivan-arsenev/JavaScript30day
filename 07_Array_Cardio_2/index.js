@@ -41,4 +41,4 @@ const newcomments = [
   ...comments.slice(0, commentId),
   ...comments.slice(commentId + 1)
 ];
-console.log(newcomments);
+console.log(`%c Hello`, `font-size:50px;`);

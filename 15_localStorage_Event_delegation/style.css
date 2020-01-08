@@ -80,3 +80,18 @@ h2 {
   outline: 0;
   border: 1px solid rgba(0, 0, 0, 0.1);
 }
+
+.del-items {
+  padding: 10px;
+  margin-top: 5px;
+  outline: 0;
+  background-color: rgba(255, 99, 71, 0.637);
+  border: 1px solid rgba(0, 0, 0, 0.1);
+}
+.check-items {
+  padding: 10px;
+  margin-top: 5px;
+  outline: 0;
+  background-color: rgba(255, 251, 7, 0.562);
+  border: 1px solid rgba(0, 0, 0, 0.1);
+}
